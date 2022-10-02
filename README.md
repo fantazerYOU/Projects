@@ -54,7 +54,7 @@
 
 ### 4. Система прогнозирования продажи отелей
 
-Ссылка на проект
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Hotel%20Sales%20Forecasting%20System
 
 **Описание проекта** :
 
