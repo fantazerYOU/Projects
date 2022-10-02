@@ -1,7 +1,7 @@
 # Содержание и краткое описание проектов
 
 
-### 1. Проект для оператора мобильной связи
+### 1. Классификаиция клиентов телеком компании
 
 Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Mobile%20operator
 
@@ -17,7 +17,7 @@
 - Scikit-learn
 
 
-### 2. Проект для банка. 
+### 2. Прогнозирование оттока клиента Банка
 
 Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Bank%20clients
 
