@@ -3,7 +3,7 @@
 
 ### Проект для компании «Мегалайн» 
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Mobile%20operator
 
 **Описание проекта** : 
 
