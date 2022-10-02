@@ -17,8 +17,6 @@
 - Scikit-learn
 
 
-
-
 ### 2. Проект для банка. 
 
 Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Bank%20clients
