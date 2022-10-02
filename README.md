@@ -36,7 +36,7 @@
 
 ### 3. Определение наиболее выгодного региона нефтедобычи
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Determination%20of%20the%20most%20profitable%20oil%20production%20region
 
 **Описание проекта** :
 
