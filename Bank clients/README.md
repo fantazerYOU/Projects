@@ -14,6 +14,7 @@
 
 **Стек технологий проекта** :
 
+- Python
 - Pandas
 - Matplotlib
 - Scikit-learn
