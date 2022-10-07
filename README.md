@@ -91,7 +91,7 @@
 
 ### 6. Построение модели определения стоимости автомобиля
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Determining-the-cost-of-a-car
 
 **Описание проекта** :
 
