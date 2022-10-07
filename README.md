@@ -17,7 +17,6 @@
 - Scikit-learn
 
 <hr size="6" width="100%" align="left" color="green">
-<hr size="6" width="100%" align="left" color="green">
 
 ### 2. Прогнозирование оттока клиента Банка
 
@@ -34,7 +33,7 @@
 - Matplotlib
 - Scikit-learn
 
-
+<hr size="6" width="100%" align="left" color="green">
 
 ### 3. Определение наиболее выгодного региона нефтедобычи
 
@@ -53,6 +52,7 @@
 - Scikit-learn
 - бутстреп
 
+<hr size="6" width="100%" align="left" color="green">
 
 ### 4. Система прогнозирования продажи отелей
 
@@ -70,5 +70,7 @@
 - NumPy
 - Scikit-learn
 - исследовательский анализ данных
+
+<hr size="6" width="100%" align="left" color="green">
 
 
