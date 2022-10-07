@@ -75,7 +75,7 @@
 
 ### 4. Прогнозирование стоимости жилья в жилом массиве
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Predicting%20the%20cost%20of%20housing
 
 **Описание проекта** :
 
