@@ -16,6 +16,7 @@
 - Matplotlib
 - Scikit-learn
 
+<hr size="6" width="50%" align="left" color="green">
 
 ### 2. Прогнозирование оттока клиента Банка
 
