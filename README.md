@@ -17,6 +17,7 @@
 - Scikit-learn
 
 <hr size="6" width="100%" align="left" color="green">
+<hr size="6" width="100%" align="left" color="green">
 
 ### 2. Прогнозирование оттока клиента Банка
 
