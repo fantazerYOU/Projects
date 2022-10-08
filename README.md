@@ -111,7 +111,7 @@
 
 ### 7. Прогнозирование темпаратуры звезды
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Star-temperature-prediction
 
 **Описание проекта** :
 
