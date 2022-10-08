@@ -109,5 +109,24 @@
 
 <hr size="6" width="100%" align="left" color="green">
 
+### 7. Прогнозирование темпаратуры звезды
+
+Ссылка на проект 
+
+**Описание проекта** :
+
+На основе косвенных данных построить модель оценки температуры на поверхности звезды
+
+**Стек технологий проекта** :
+
+- Python
+- seaborn
+- Matplotlib
+- NumPy
+- Scikit-learn
+- skorch
+- torch
+
+<hr size="6" width="100%" align="left" color="green">
 
 
