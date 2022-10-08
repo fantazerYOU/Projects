@@ -131,7 +131,7 @@
 
 ### 8. Разработка системы предупреждения аварий на каршеринге
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/RTA-risk-assessment
 
 **Описание проекта** :
 
