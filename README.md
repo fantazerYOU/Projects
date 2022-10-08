@@ -129,4 +129,28 @@
 
 <hr size="6" width="100%" align="left" color="green">
 
+### 8. Разработка системы предупреждения аварий на каршеринге
+
+Ссылка на проект 
+
+**Описание проекта** :
+
+На основе исторических данных из базы данных выявить причины возникновения аварий и создать алерт о безопасном вождении.
+
+**Стек технологий проекта** :
+
+- Pandas
+- hyperopt
+- skorch
+- torch
+- Matplotlib
+- Scikit-learn
+- catboost
+- lightgbm
+- SQL
+- PostgreSQL
+- SQLAlchemy
+
+<hr size="6" width="100%" align="left" color="green">
+
 
