@@ -175,7 +175,7 @@
 
 ### 10. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Yandex%20Real%20Estate%20Service
 
 **Описание проекта** :
 
