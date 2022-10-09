@@ -125,7 +125,7 @@
 - NumPy
 - Scikit-learn
 - skorch
-- torch
+- Pytorch
 
 <hr size="6" width="100%" align="left" color="green">
 
@@ -142,7 +142,7 @@
 - Pandas
 - hyperopt
 - skorch
-- torch
+- Pytorch
 - Matplotlib
 - Scikit-learn
 - catboost
@@ -166,7 +166,7 @@
 - Pandas
 - statsmodels
 - skorch
-- torch
+- Pytorch
 - Matplotlib
 - Scikit-learn
 - catboost
