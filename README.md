@@ -194,7 +194,7 @@
 
 ### 11. Обучение модели классификации комментариев
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Training%20a%20Comment%20Classification%20Model
 
 **Описание проекта** :
 
