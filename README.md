@@ -109,7 +109,7 @@
 
 <hr size="6" width="100%" align="left" color="green">
 
-### 7. Прогнозирование темпаратуры звезды
+### 7. Прогнозирование температуры звезды
 
 Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Star-temperature-prediction
 
