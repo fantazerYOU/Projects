@@ -214,7 +214,7 @@
 
 ### 12. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
 
-Ссылка на проект 
+Ссылка на проект https://github.com/fantazerYOU/Projects/tree/main/Research%20of%20ads%20for%20the%20sale%20of%20apartments
 
 **Описание проекта** :
 
